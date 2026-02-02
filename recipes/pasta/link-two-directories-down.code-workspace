@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../link-two-directories-down"
+		},
+		{
+			"path": "../../images"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
